@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menus/Main Menu.unity
+    guid: a3a7b099b9df936409819d238acb4ae2
+  - enabled: 1
+    path: Assets/Scenes/Tutorial.unity
+    guid: 532da5b8ba2857145ad87877c0343108
+  - enabled: 1
+    path: Assets/Scenes/Tutorial 1.unity
+    guid: e3e2bc7d1a1e305408eadd7b65c786cc
+  - enabled: 1
+    path: Assets/Scenes/Jumpin.unity
+    guid: 85635b33fae4e5e46b0da39b653627e2
+  - enabled: 1
+    path: Assets/Scenes/Jumpin 2.unity
+    guid: 6e64f562f27edad4f8d625cefe6e4370
+  - enabled: 1
+    path: Assets/Scenes/Jumpin 3.unity
+    guid: dc93c3cccdce07041b902f6c664a1e51
+  - enabled: 1
+    path: Assets/Scenes/Jumpin 4.unity
+    guid: b5f05b4e0e3a2a348a7b54c0beb733d7
+  - enabled: 1
+    path: Assets/Scenes/Grapple.unity
+    guid: ca57b41076a2ece4693baed7aa6c21cf
+  - enabled: 1
+    path: Assets/Scenes/Grapple 2.unity
+    guid: 19aed4e291413b845af0784371d8d9fe
+  - enabled: 1
+    path: Assets/Scenes/Grapple 3.unity
+    guid: cb2489ce7f5f79a458652790e26f5d92
+  - enabled: 1
+    path: Assets/Scenes/Mixed.unity
+    guid: 590a22d07309ee84e954121dec0e909d
+  - enabled: 1
+    path: Assets/Scenes/Mixed 2.unity
+    guid: 25db9e52d2b349b42a34664ca126c6ad
+  - enabled: 1
+    path: Assets/Scenes/Menus/End Screen.unity
+    guid: 6a31c7c161ee1c84fa91cac0102accbb
+  - enabled: 1
+    path: Assets/Scenes/Menus/Level Select.unity
+    guid: 65e458a0cf90f8e40b8b4d7afd162bf1
+  m_configObjects: {}
